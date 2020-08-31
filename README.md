@@ -3,6 +3,7 @@ Based on the idea of **AI for science, and science for AI**, this is a reading g
 
 Find paper PDFs, along with some slides and notes, in this repository. If you are interested in joining our reading group, please email one of the contributors. 
 
+This page will duplicate our [main group page](https://github.com/MachineLearningStudyGroup)
 
 ## Fall 2020 Reading Schedule
 | Date  | Title | Presenter | Slides
